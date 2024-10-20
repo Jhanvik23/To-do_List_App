@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "todo": "test todo",
+      "label": "uncategorized",
+      "id": "618e39ca",
+      "date": "10/20/2024, 8:00:00 PM",
+      "isDone": false
+    }
+  ],
+  "labels": [
+    {
+      "label": "uncategorized",
+      "count": 1,
+      "id": "17daee68"
+    }
+  ]
+}
